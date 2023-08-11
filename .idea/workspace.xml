@@ -7,6 +7,8 @@
     <list default="true" id="309375d9-f5ac-462e-b891-2385c97c1e33" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/BuyingSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/BuyingSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/Utils/RunCukesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/Utils/RunCukesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/Buying.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Buying.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
