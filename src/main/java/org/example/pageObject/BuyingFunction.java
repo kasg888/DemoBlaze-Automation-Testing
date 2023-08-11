@@ -22,7 +22,11 @@ public class BuyingFunction {
 
 //    Custom Locator
     public By navbarLoc (String navbarBtn) {
-        return By.xpath("//*[text()='" +navbarBtn+ "']");
+        if (navbarBtn.equals("Home")) {
+            return By.xpath("//a[.='" +navbarBtn+ " (current)']");
+        } else {
+            return By.xpath("//a[.='" + navbarBtn + "']");
+        }
     }
 
 

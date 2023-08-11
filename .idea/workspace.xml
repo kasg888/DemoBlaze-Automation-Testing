@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="309375d9-f5ac-462e-b891-2385c97c1e33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/PlaceorderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/SignupPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/BuyingSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/PlaceorderSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/SignupSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/Utils/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/Utils/RunCukesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Buying.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Placeorder.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Signup.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Buying.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Buying.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

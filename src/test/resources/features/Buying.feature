@@ -4,7 +4,7 @@ Feature: As a User I want to buy something in website DemoBlaze
   @Test @PositiveCase
   Scenario: New User buying products
     Given User already on DemoBlaze home page
-    And click "Sign up" on navigation bar
+    And click "Home" on navigation bar
 #    And sign up pop up will appear
 #    Then input "asg001" as username and "test123" as password
 #    And click sign up button
