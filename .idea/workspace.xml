@@ -6,10 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="309375d9-f5ac-462e-b891-2385c97c1e33" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/BuyingSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/BuyingSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/Utils/RunCukesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/Utils/RunCukesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObject/BuyingFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pageObject/TestPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObject/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObject/PlaceorderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObject/SignupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/BuyingSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/TestSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/LoginSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/PlaceorderSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/SignupSteps.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/Buying.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Buying.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Placeorder.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Placeorder.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Signup.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Signup.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +50,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Formulatrix Technical Test/DemoBlaze_Automation Testing/src/test/java/step_definition/Utils"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Formulatrix Technical Test/DemoBlaze_Automation Testing/src/test/java/step_definition/Utils&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Formulatrix Technical Test\DemoBlaze_Automation Testing\src\test\java\step_definition\Utils" />

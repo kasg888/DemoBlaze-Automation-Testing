@@ -6,33 +6,33 @@ Feature: As a User I want to buy something in website DemoBlaze
     Given User already on DemoBlaze home page
     And click "Sign up" on navigation bar
     And sign up pop up will appear
-    Then input "asg002" as username and "test123" as password in sign up
+    Then input "asg011" as username and "test123" as password in sign up
     And click sign up button
-    Then alert message will appear "Sign up successful"
+    Then alert message will appear "Sign up successful."
     And click "Log in" on navigation bar
     And log in pop up will appear
-    Then input "asg002" as username and "test123" as password in log in
+    Then input "asg011" as username and "test123" as password in log in
     And click log in button
     Then User will redirect to home page
     And click "Phones" filter
     Then click on "Sony xperia z5"
     And User will redirect to "Sony xperia z5" product page
     And click add to cart button
-    Then alert message will appear "Product added"
+    Then alert message will appear "Product added."
     And click "Home" on navigation bar
     Then User will redirect to home page
     And click "Laptops" filter
-    Then click on "Sony vaio i7"
-    And User will redirect to "Sony vaio i7" product page
+    Then click on "Sony vaio i5"
+    And User will redirect to "Sony vaio i5" product page
     And click add to cart button
-    Then alert message will appear "Product added"
+    Then alert message will appear "Product added."
     And click "Home" on navigation bar
     Then User will redirect to home page
     And click "Monitors" filter
     Then click on "ASUS Full HD"
     And User will redirect to "ASUS Full HD" product page
     And click add to cart button
-    Then alert message will appear "Product added"
+    Then alert message will appear "Product added."
     And click "Cart" on navigation bar
     Then User will redirect to cart page
     And click place order

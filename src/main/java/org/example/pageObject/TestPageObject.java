@@ -6,11 +6,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class BuyingFunction {
+public class TestPageObject {
 
     public static WebDriver driver;
 
-    public BuyingFunction(WebDriver driver) {
+    public TestPageObject(WebDriver driver) {
         PageFactory.initElements(driver, this);
         this.driver = driver;
     }
@@ -62,8 +62,8 @@ public class BuyingFunction {
     private WebElement purchaseConfirm;
     @FindBy(xpath = "//button[@class='confirm btn btn-lg btn-primary']")
     private WebElement OKBtn;
-    @FindBy(xpath = "//tbody[@id='tbodyid']")
-    private WebElement itemTable;
+    @FindBy(xpath = "//h3[@id='totalp']")
+    private WebElement cartTotal;
 
 
 //    Custom Locator
@@ -196,7 +196,7 @@ public class BuyingFunction {
         OKBtn.click();
     }
 
-    public boolean verifyItemTable () {
-        return itemTable.isDisplayed();
+    public boolean verifyCartEmpty () {
+        return cartTotal.isDisplayed();
     }
 }
